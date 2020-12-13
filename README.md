@@ -1,3 +1,3 @@
-# utl-end-to-end-cdisc-SDTM-ADaM-processing
-Createdefine.xml, SDTM, and ADaM expors for FDA submission
+# utl-end-to-end-CDISC-SDTM-ADaM-processing
+Create define.xml, SDTM, and ADaM exports for FDA submission
 TBD
