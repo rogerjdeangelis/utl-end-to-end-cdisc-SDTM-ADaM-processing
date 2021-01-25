@@ -5,7 +5,7 @@ programatically, except the makefile.
 Download the makefile into the Classic 1980s SAS editor and highlight and submit sections of code.
 You should be able to run the entire script but I suggest you do a piece at a time.
  
-After setup you could put together a short driver that just call the macros.
+After setup you could put together a short driver that just calls the macros.
 But I think that is a little premature. Code is under development.
  
 *****************************************************************************************************************;
