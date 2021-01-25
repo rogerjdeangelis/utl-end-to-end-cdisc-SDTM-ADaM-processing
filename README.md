@@ -7,7 +7,7 @@ Create define.xml, SDTM, and ADaM expors for FDA submission
     Download the makefile into the Classic 1980s SAS editor and highlight and submit sections of code.
     You should be able to run the entire script but I suggest you do a piece at a time.
  
-    After setup you could put together a short driver that just call the macros.
+    After setup you could put together a short driver that just calls the macros.
     But I think that is a little premature. Code is under development.
  
     data;infile"./&pgm..sas";file".j.sas";input;_infile_=trim(_infile_);put _infile_;run;
