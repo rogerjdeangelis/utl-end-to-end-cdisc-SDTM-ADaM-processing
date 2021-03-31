@@ -3,6 +3,8 @@ Create define.xml, SDTM, and ADaM expors for FDA submission
  
     This code should run 'lights out', day or night. All data is downloaded from GitHub
     programatically, except the makefile.
+    
+    Don not extract code from this readme, use cln_000makefile.sas instead.
  
     Download the makefile into the Classic 1980s SAS editor and highlight and submit sections of code.
     You should be able to run the entire script but I suggest you do a piece at a time.
