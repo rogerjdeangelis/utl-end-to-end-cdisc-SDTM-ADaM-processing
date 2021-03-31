@@ -1,10 +1,9 @@
 # utl-end-to-end-cdisc-SDTM-ADaM-processing
 Create define.xml, SDTM, and ADaM expors for FDA submission
  
-    This code should run 'lights out', day or night. All data is downloaded from GitHub
-    programatically, except the makefile.
+    This code will not run in 32 bit SAS because you would need the pcfile server and recode the import of excel files.
     
-    Don not extract code from this readme, use cln_000makefile.sas instead.
+    Don not extract code from this readme, run section of cln_000makefile.sas instead.
     
     Occasionally a download might fail. When this happens check you log and just rerun the download code.
     Also you can download tne b64 coded file manually.
