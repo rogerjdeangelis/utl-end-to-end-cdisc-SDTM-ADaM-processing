@@ -5,6 +5,9 @@ Create define.xml, SDTM, and ADaM expors for FDA submission
     programatically, except the makefile.
     
     Don not extract code from this readme, use cln_000makefile.sas instead.
+    
+    Occasionally a download might fail. When this happens check you log and just rerun the download code.
+    Also you can download tne b64 coded file manually.
  
     Download the makefile into the Classic 1980s SAS editor and highlight and submit sections of code.
     You should be able to run the entire script but I suggest you do a piece at a time.
