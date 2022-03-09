@@ -21,7 +21,7 @@ Create define.xml, SDTM, and ADaM expors for FDA submission
     *                                                                                                               *;
     *; %let pgm=cln_000makefile;                                                                                    *;
     *                                                                                                               *;
-    *; %let purpose=An example of CDISC end to end processing of a clinical traial;                                 *;
+    *; %let purpose=An example of CDISC end to end processing of a clinical trial;                                  *;
     *                                                                                                               *;
     *; %put &=pgm;                                                                                                  *;
     *; %put &=purpose;                                                                                              *;
