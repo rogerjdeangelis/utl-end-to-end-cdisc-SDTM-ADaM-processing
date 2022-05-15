@@ -10,6 +10,8 @@ Create define.xml, SDTM, and ADaM expors for FDA submission
       
       cran admiral package
       https://cran.r-project.org/web/packages/admiral/index.html
+      https://tinyurl.com/2p8am8d2
+      https://github.com/rogerjdeangelis/utl-end-to-end-cdisc-SDTM-ADaM-processing/blob/main/admiral.7z
       
       xportr package
       https://github.com/rogerjdeangelis/utl-end-to-end-cdisc-SDTM-ADaM-processing/blob/main/xportr.7z
