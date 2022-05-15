@@ -10,6 +10,9 @@ Create define.xml, SDTM, and ADaM expors for FDA submission
       
       cran admiral package
       https://cran.r-project.org/web/packages/admiral/index.html
+      
+      xportr package
+      https://github.com/rogerjdeangelis/utl-end-to-end-cdisc-SDTM-ADaM-processing/blob/main/xportr.7z
          
     This code will not run in 32 bit SAS because you would need the pcfile server and recode the import of excel files.
     
