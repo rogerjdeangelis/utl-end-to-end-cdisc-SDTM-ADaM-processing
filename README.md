@@ -1,6 +1,16 @@
 # utl-end-to-end-cdisc-SDTM-ADaM-processing
 Create define.xml, SDTM, and ADaM expors for FDA submission
- 
+
+    Useful R packages
+    
+      https://cran.rstudio.com/web/packages/clinUtils/index.html
+      Also at
+      https://tinyurl.com/426ua54r     
+      https://github.com/rogerjdeangelis/utl-end-to-end-cdisc-SDTM-ADaM-processing/blob/main/TDF_ADaM_v1.0.zip
+      
+      cran admiral package
+      https://cran.r-project.org/web/packages/admiral/index.html
+         
     This code will not run in 32 bit SAS because you would need the pcfile server and recode the import of excel files.
     
     Don not extract code from this readme, run section of cln_000makefile.sas instead.
