@@ -3,6 +3,13 @@ Create define.xml, SDTM, and ADaM expors for FDA submission
 
     Useful R packages
     
+      Updated expanded CDISC SDTM ADAM DEFINE processing                                                                         
+      https://github.com/cdisc-org/sdtm-adam-pilot-project                                                                       
+      zipped https://github.com/cdisc-org/sdtm-adam-pilot-project                                                                
+      https://tinyurl.com/2p8c92b6                                                                                               
+      https://github.com/rogerjdeangelis/utl-end-to-end-cdisc-SDTM-ADaM-processing/blob/main/cdisc-org-sdtm-adam-pilot-project.7z
+
+    
       https://cran.rstudio.com/web/packages/clinUtils/index.html
       Also at
       https://tinyurl.com/426ua54r     
